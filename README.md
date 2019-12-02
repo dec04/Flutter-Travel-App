@@ -1,6 +1,13 @@
-# flutter_app
+# Flutter-Travel-Application
 
-A new Flutter application.
+This is my first flutter application.
+
+I created it inspired by design Ulul Amri on dribble
+(https://dribbble.com/shots/8157039-Travel-App)
+
+![Ulul Amri Travel App](https://cdn.dribbble.com/users/3975359/screenshots/8157039/media/0ce352124382812c3de3ddaf677a2589.jpg)
+
+It's not complete, but you can use it, if you want.
 
 ## Getting Started
 
